@@ -1,0 +1,216 @@
+
+HELIX 
+GLU 
+  59 
+ALA 
+  63 
+
+HELIX 
+PHE 
+ 206 
+ILE 
+ 210 
+
+HELIX 
+GLN 
+  20 
+LEU 
+  37 
+
+HELIX 
+GLU 
+  38 
+TYR 
+  40 
+
+HELIX 
+SER 
+  58 
+CYS 
+  63 
+
+HELIX 
+LEU 
+  66 
+ASN 
+  71 
+
+HELIX 
+SER 
+  95 
+LEU 
+ 124 
+
+HELIX 
+PHE 
+ 132 
+LEU 
+ 148 
+
+HELIX 
+TYR 
+ 167 
+ALA 
+ 196 
+
+SHEET 
+TRP 
+   2 
+GLU 
+   3 
+
+SHEET 
+VAL 
+   8 
+ASP 
+  14 
+
+SHEET 
+LEU 
+  79 
+GLU 
+  86 
+
+SHEET 
+ILE 
+  89 
+TRP 
+  90 
+
+SHEET 
+GLU 
+  22 
+VAL 
+  24 
+
+SHEET 
+ILE 
+  55 
+VAL 
+  57 
+
+SHEET 
+GLY 
+  48 
+SER 
+  49 
+
+SHEET 
+THR 
+  37 
+LEU 
+  40 
+
+SHEET 
+TYR 
+  66 
+THR 
+  67 
+
+SHEET 
+ARG 
+ 108 
+GLU 
+ 110 
+
+SHEET 
+ARG 
+ 117 
+THR 
+ 124 
+
+SHEET 
+TYR 
+ 165 
+GLU 
+ 173 
+
+SHEET 
+VAL 
+ 146 
+CYS 
+ 148 
+
+SHEET 
+ARG 
+ 108 
+GLU 
+ 110 
+
+SHEET 
+ARG 
+ 117 
+THR 
+ 124 
+
+SHEET 
+TYR 
+ 165 
+GLU 
+ 173 
+
+SHEET 
+THR 
+ 152 
+ALA 
+ 155 
+
+SHEET 
+THR 
+ 131 
+ARG 
+ 138 
+
+SHEET 
+ILE 
+ 186 
+HIS 
+ 194 
+
+SHEET 
+LYS 
+ 197 
+PHE 
+ 205 
+
+SHEET 
+LYS 
+ 217 
+GLN 
+ 220 
+
+SHEET 
+GLN 
+ 229 
+GLU 
+ 235 
+
+SHEET 
+SER 
+ 273 
+ILE 
+ 277 
+
+SHEET 
+ARG 
+ 266 
+THR 
+ 269 
+
+SHEET 
+LEU 
+ 249 
+VAL 
+ 255 
+
+SHEET 
+ILE 
+ 284 
+ASP 
+ 290 
+
+SHEET 
+ALA 
+ 301 
+VAL 
+ 303 
